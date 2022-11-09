@@ -327,3 +327,12 @@ footer p:nth-child(2){
 	justify-content: center;
 	align-items: center;
 }
+
+.card1 a {
+	text-decoration: none;
+}
+
+button a {
+	color: #ffffff;
+	text-decoration: none;
+}
